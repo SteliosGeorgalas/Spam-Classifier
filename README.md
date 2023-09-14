@@ -1,5 +1,5 @@
 # SpamClassifier
-Messages Spam/Ham Classifier Api using FastApi/Docker
+Spam/Ham Classifier Api using FastApi/Docker 
 
 
 ## Want to use this project?
